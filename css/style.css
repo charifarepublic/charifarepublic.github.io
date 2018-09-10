@@ -58,7 +58,7 @@ color:#333;
 	transition: all 0.3s ease 0s;
 }
 a:focus, a:hover {
-color:#3597db;
+color:#b056a6;
 -webkit-transition: all .3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -1345,7 +1345,7 @@ font-weight:600;
     transition: all 0.3s ease 0s;
 }
 .item:hover > h3{
-color:#3597db;
+color:#b056a6;
 -webkit-transition: all .3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -1353,7 +1353,7 @@ color:#3597db;
 }
 .services .item i {
     font-size: 45px;
-    color: #3597db;
+    color: #b056a6;
 }
 .services .item h3 {
     margin: 15px 0 10px 0;
@@ -1437,10 +1437,10 @@ color:#3597db;
   transition: all .5s;
 }
 .services .active h6 {
-  color: #3597db;
+  color: #b056a6;
 }
 .services .active i {
-  color: #3597db !important;
+  color: #b056a6 !important;
   border: none !important;
   color: #fff;
 }
@@ -1452,7 +1452,7 @@ color:#3597db;
 
 /* |------------[ Service-3 ]-----------| */
 .services_3 .section_3 .item:hover{
-    background: #3597db !important;
+    background: #b056a6 !important;
     color: #fff !important;
 -webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
@@ -2791,7 +2791,7 @@ cursor:pointer;
 	transition: all 0.3s ease-in-out;
 }
 .contact-us li .box {
-    background: #3597db;
+    background: #b056a6;
     padding: 30px 20px;
     text-align: center;
     border-radius: 4px;
